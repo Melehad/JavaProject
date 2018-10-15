@@ -1,0 +1,2 @@
+# JavaProject
+investigation game
